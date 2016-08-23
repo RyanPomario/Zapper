@@ -16,3 +16,6 @@ place the result on a graphic display.  Special markers can be placed in the str
 Note:
 Limited time that I had to focus on this project did not allow me the freedom to research the particuler CPU specified, install the necessary toolchains and then impliment a CPU ready version.
 This implementation was compiled on Ubuntu Linux Kernel 4.4.0-31 using the gcc toolchain.
+
+Make:
+  gcc ZapperTest.c -o test
